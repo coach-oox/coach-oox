@@ -9,7 +9,7 @@ But now, I am a writer, instructor, and freelance full-stack web developer. (Whe
 
 ### Links
 
-- <a><img alt="Blog" src="https://img.shields.io/badge/Blog%20-%230077B5.svg?&style=for-the-badge" height="20px"/></a>
+- <a href="https://oox-school.tistory.com"><img alt="Blog" src="https://img.shields.io/badge/Blog%20-%230077B5.svg?&style=for-the-badge" height="20px"/></a>
 - <a href="https://instagram.com/coach.oox"><img alt="Instagram" src="https://img.shields.io/badge/@coach.oox%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" height="20px"/></a>
 - <a href="mailto:coachmsoox@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/coachmsoox@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20px"/><a/>
 
