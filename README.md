@@ -17,7 +17,7 @@ But now, I am a writer, instructor, and freelance full-stack web developer. (Whe
 
 - [디지털 노마드를 꿈꾸는 당신이 알아야 하는 모든 것](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D201208350&orderClick=LAG&Kc=)
 - [HTML5 독학백서](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D210130780&orderClick=LEH&Kc=)
-- [CSS3 독학백서]()
+- [CSS3 독학백서](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D210330180&orderClick=LAG&Kc=)
 
 ### Languages & Tools
 
