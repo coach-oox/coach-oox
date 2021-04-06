@@ -4,7 +4,7 @@
 (+ 이 계정에는 책이나 강의에 관련된 내용만 커밋합니다.)  
 (+ 독학러들을 지지합니다. 도움이 되는 자료를 올리고 싶습니다.)
 
-Hi, there. I'm Moon. 💕&nbsp; I majored in computer science and did research and work related to networks and operating systems.
+Hi, there. I'm Coach OOX. 💕&nbsp; I majored in computer science and did research and work related to networks and operating systems.
 But now, I am a writer, instructor, and freelance full-stack web developer. (When I'm not working, I'm a Stay-At-Hom wife and traveler.)
 
 ### Links
